@@ -97,6 +97,12 @@ mkdir src/components src/features src/layout src/pages src/redux src/
 recoil/atoms
 ```
 
+### Generate Templates
+
+```shell
+npx generate-react-cli component Header
+```
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
