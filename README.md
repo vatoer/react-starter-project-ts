@@ -103,6 +103,15 @@ recoil/atoms
 npx generate-react-cli component Header
 ```
 
+### setup Eslint and Prettiers for Ts
+
+```shell
+yarn add -D --save-exact eslint-config-airbnb eslint-config-airbnb-typescript eslint-config-prettier eslint-config-react-app eslint-import-resolver-typescript eslint-loader eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks babel-eslint eslint-plugin-jest @typescript-eslint/parser @typescript-eslint/eslint-plugin
+
+
+yarn add -D --save-exact prettier prettier-eslint prettier-eslint-cli eslint-plugin-prettier
+```
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
