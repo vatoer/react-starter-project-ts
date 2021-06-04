@@ -123,6 +123,9 @@ yarn run format
 
 ```shell
 yarn add -D classnames @types/classnames
+
+yarn add -D prop-types
+
 ```
 
 
