@@ -126,6 +126,18 @@ yarn add -D classnames @types/classnames
 
 yarn add -D prop-types
 
+yarn add lodash
+
+yarn add moment
+
+yarn add serve
+
+yarn add Precache React-snap to working offline
+
+yarn add any-promise
+
+yarn add source-map-explorer 
+
 ```
 
 
