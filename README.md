@@ -80,6 +80,23 @@ yarn add yarn add @types/puppeteer @types/expect-puppeteer @types/jest-environme
 
 ```
 
+## Component Folder Structure
+
+
+```
+– src/components 
+– src/features
+– src/layout
+– src/pages
+– src/redux
+– src/recoil/atoms
+```
+
+```shell
+mkdir src/components src/features src/layout src/pages src/redux src/
+recoil/atoms
+```
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
