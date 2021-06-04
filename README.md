@@ -138,6 +138,8 @@ yarn add any-promise
 
 yarn add source-map-explorer 
 
+yarn add -D cra-bundle-analyzer
+
 ```
 
 
