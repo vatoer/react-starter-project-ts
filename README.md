@@ -119,6 +119,13 @@ yarn run lint
 yarn run format
 ```
 
+## other useful libraries
+
+```shell
+yarn add -D classnames @types/classnames
+```
+
+
 
 ## Learn More
 
