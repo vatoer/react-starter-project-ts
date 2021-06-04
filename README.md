@@ -112,6 +112,14 @@ yarn add -D --save-exact eslint-config-airbnb eslint-config-airbnb-typescript es
 yarn add -D --save-exact prettier prettier-eslint prettier-eslint-cli eslint-plugin-prettier
 ```
 
+see @link https://medium.com/react-courses/react-create-react-app-v3-4-1-a55f3e7a8d6d
+
+```shell
+yarn run lint
+yarn run format
+```
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).

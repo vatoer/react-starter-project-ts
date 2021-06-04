@@ -1,15 +1,15 @@
-import React from 'react';
-import { shallow } from 'enzyme';
-import Header from './Header';
+import React from 'react'
+import { shallow } from 'enzyme'
+import Header from './Header'
 
 describe('<Header />', () => {
-  let component;
+  let component
 
   beforeEach(() => {
-    component = shallow(<Header />);
-  });
+    component = shallow(<Header />)
+  })
 
   test('It should mount', () => {
-    expect(component.length).toBe(1);
-  });
-});
+    expect(component.length).toBe(1)
+  })
+})
